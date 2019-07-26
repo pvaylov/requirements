@@ -131,7 +131,7 @@ vine===1.1.4
 taskflow===3.1.0
 traceback2===1.4.0
 semantic-version===2.6.0
-virtualbmc===1.2.0
+#virtualbmc===1.2.0
 deprecation===1.0.1
 SQLAlchemy===1.2.1
 pyroute2===0.4.21
@@ -530,7 +530,7 @@ monasca-statsd===1.9.0
 python-dateutil===2.6.1
 virtualenv===15.1.0
 colorama===0.3.9
-ironic-lib===2.12.3
+#ironic-lib===2.12.3
 pytz===2017.3
 XStatic-D3===3.5.17.0
 actdiag===0.5.4
